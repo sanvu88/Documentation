@@ -21,6 +21,8 @@ share:
 enableTags: true
 tagarray: []
 
+plugins: [jekyll-paginate]
+
 paginate: 20
 per_page: 20
 paginate_path: "/Documentation/page:num/"
