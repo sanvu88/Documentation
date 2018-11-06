@@ -6,7 +6,7 @@ github: #
 about: security base
 
 baseurl: "https://beta.vnclouds.co/Documentation"
-url: "https://beta.vnclouds.co/Documentation"
+
 
 allowsearch: true
 
